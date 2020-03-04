@@ -1,0 +1,13 @@
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\bin\Debug\SnakeAdventure.exe.config
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\bin\Debug\SnakeAdventure.exe
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\bin\Debug\SnakeAdventure.pdb
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\obj\Debug\SnakeAdventure.csprojAssemblyReference.cache
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\obj\Debug\SnakeAdventure.csproj.CoreCompileInputs.cache
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\obj\Debug\SnakeAdventure.exe
+C:\GIT\SnakeAdventure\SnakeAdventure\SnakeAdventure\obj\Debug\SnakeAdventure.pdb
+C:\Repos\SnakeAdventure\bin\Debug\SnakeAdventure.exe.config
+C:\Repos\SnakeAdventure\bin\Debug\SnakeAdventure.exe
+C:\Repos\SnakeAdventure\bin\Debug\SnakeAdventure.pdb
+C:\Repos\SnakeAdventure\obj\Debug\SnakeAdventure.csprojAssemblyReference.cache
+C:\Repos\SnakeAdventure\obj\Debug\SnakeAdventure.exe
+C:\Repos\SnakeAdventure\obj\Debug\SnakeAdventure.pdb
